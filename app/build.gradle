@@ -4,6 +4,7 @@ plugins {
 }
 
 android {
+    namespace 'com.byben.quicksend'
     compileSdk 33
 
     defaultConfig {
